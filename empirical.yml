@@ -1,0 +1,7 @@
+projects:
+  my-approach:
+    type: standalone
+    image:
+      build: .
+    experiments:
+      - name: my-first-experiment
